@@ -1,1 +1,2 @@
-ScenarioOne.m and ScenarioTwo.m are the main files for the two scenarios.
+ScenarioOne.m and ScenarioTwo.m are the main files for simulations of the two scenarios.
+Initial settings and parameters can be adjusted in these main files.
