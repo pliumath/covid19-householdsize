@@ -1,6 +1,6 @@
 # covid19-householdsize
 
-##Overview
+## Overview
 
 This repository includes code and data for simulations in the following paper. 
 
